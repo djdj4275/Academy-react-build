@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Academy-react-build/static/css/main.6b5d1000.css",
+    "main.js": "/Academy-react-build/static/js/main.87047213.js",
+    "static/js/787.a2bf511c.chunk.js": "/Academy-react-build/static/js/787.a2bf511c.chunk.js",
+    "static/media/1.png": "/Academy-react-build/static/media/1.2c5bc7cdbf88262bae1b.png",
+    "index.html": "/Academy-react-build/index.html",
+    "main.6b5d1000.css.map": "/Academy-react-build/static/css/main.6b5d1000.css.map",
+    "main.87047213.js.map": "/Academy-react-build/static/js/main.87047213.js.map",
+    "787.a2bf511c.chunk.js.map": "/Academy-react-build/static/js/787.a2bf511c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b5d1000.css",
+    "static/js/main.87047213.js"
+  ]
+}
